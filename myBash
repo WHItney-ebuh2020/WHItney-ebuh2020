@@ -1,0 +1,5 @@
+#!/bin/bash
+
+$ awk 'BEGIN{a=75; b=4; print "(a / b)=", (a / b) }' (a / b)= 18.75
+
+$ awk 'BEGIN{a=108; b=3; print "(a / b)=", (a / b) }' (a / b)= 36
