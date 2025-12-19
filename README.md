@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Whitney Ebuh. A Front end developer. Self-taught. 
-- 👀 I’m interested in Web Development, majorly Frontend Stack...
-- 🌱 I’m currently learning how to create better websites using HTML, Css, javascript...
-- 💞️ I’m looking to collaborate on the backend software of this webpage , I'll make responsive...
-- 📫 How to reach me: whitneyebuh2020@gmail.com. 
+- 👋 Hi, I’m Whitney Ebuh. A Product Manager with multiple certifications. 
+- 👀 I’m interested in building and scaling B2B SaaS and AI-driven products across healthtech, fintech, and digital services.
+- 🌱 I specialize in translating complex domain logic into simple, high-impact user experiences, driving activation, retention, and product-led growth.
+- 💞️ I have a proven track record launching features end-to-end, improving user outcomes, and aligning cross-functional teams to ship faster and smarter.
+- 📫 How to reach me: ebuhwhitney@gmail.com. 
 
 <!---
 WHItney-ebuh2020/WHItney-ebuh2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
